@@ -1,0 +1,19 @@
+Wha? is DBMS? Wha? was ?he need or DBMS.
+
+
+====>
+
+
+
+A database is a system that stores organized data, making tasks like searching, structuring, and extending data easier. It allows efficient data retrieval, ensures data integrity, supports concurrent access, and scales with growing data needs. For example, a library management system using a database can efficiently track books, members, and transactions.
+
+This code snippet:
+
+Creates an in-memory SQLite database.
+Defines a Books table with BookID, Title, and Author fields.
+Inserts a book record.
+Retrieves and logs all book records, demonstrating how a DBMS organizes and manages data efficiently.
+
+
+
+
